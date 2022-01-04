@@ -1,40 +1,28 @@
-AlertOps Expert Guidance
+Top 10 Reasons AlertOps is Better Than PagerDuty: #9
 ========
 
  
-The phrase ‘stakeholder management” assumes that stakeholders are truly informed by alerts. However, managers can only send communications out, they cannot force people to address them. To ensure your stakeholders are engaged during an incident, it is vital to set up a defined communication process. Yet, a recent Red Canary report1 found that 43% of surveyed participants lack readiness to notify the public and/or its customers in the event of a security breach. Without a clear strategy in place, communication can get lost in the chaos leaving stakeholders uninformed.
+Today’s IT operations monitoring and incident management systems must communicate with one another. Yet integrating an IT operations monitoring system with an incident management system may be difficult.
 
-Not One Size Fits All
-=====
-Sending the same notification to all your stakeholders can cause a lot of confusion and create unwanted alert noise. Some users shouldn’t receive technical information, others require all the nitty gritty details. Every alert should be tailored based on a user’s expertise or role.
-Means of Communication
+For instance, consider what could happen if an organization upgrades its IT operations monitoring system. This upgrade may make it easier than ever before for an IT operations team to track its day-to-day tasks. However, the monitoring system may be tough to integrate into an older incident management system, thereby limiting the overall effectiveness of both systems. And without the optimal IT operations monitoring-incident management systems integration in place, an IT operations team may struggle to identify incidents before they escalate – something that may lead to significant downtime and outages.
 
-Strategize mode(s) of communication to be used when communicating with stakeholders. Understand which tools engage stakeholders the most. It is also vital to unify these channels for streamlined points of contact.
+How Does AlertOps Help IT Ops Teams Achieve Their Goals?
 
-Automate Processes
-====
-Engaging stakeholders can take up a lot of time. Automate stakeholder communications to ensure efficient delivery of insightful information. Implement AlertOps so you can focus on getting ahead of incidents while knowing your alerts reach the right person, through the right channel, every time. Sending regular updates to stakeholders during an incident is vital to keep them calm. Automation addresses your stakeholders’ needs while ensuring they remain aligned with minimal manual work.
+When it comes to IT operations systems standardization, AlertOps is a superior choice over PagerDuty and other alert escalation and incident management software. In fact, AlertOps provides a variety of open APIs that ensure IT operations systems can evolve as needed.
 
-Clarity
-====
-A highly flexible incident management and alert automation tool, AlertOps is powered by an open API, with the ability to connect with practically any communication tool. Once plugged in, AlertOps delivers alerts with relevant incident information so that stakeholders can stay in the loop from detection to resolution.
-Any Way You Want It…
+An open API can accept multiple forms of a JSON or XML payload from any source. Then, the open API maps source data to the appropriate incident management system fields. An open API also ensures an IT operations team can adapt quickly. And if new products hit the market or existing products change, an open API guarantees that you can send or receive messages, regardless of system.
 
-Since you use multiple channels for communication, you need an alerting system that sends alerts through multiple communication channels. AlertOps delivers alerts any way you want. Receive alerts by phone, SMS, or email. Even integrate with all your favorite chat tools, such as Slack and Microsoft Teams, so that users receive alerts where they are most likely to see them.
+AlertOps offers two APIs for inbound integrations: REST and email APIs. With both APIs, you only need to map the incoming data to AlertOps standard fields, such as Source Identifier or Source Status. Additionally, you can map incoming data to custom template fields and create multiple inbound integrations for each incoming source. You can even set filters to route messages to specific groups or prioritize an incident based on incoming data.
 
-Insightful Notifications
-====
-Alerts are only useful if they contain information relevant to the user. With AlertOps, customized messages make it easy for stakeholders to quickly understand an incident. They can also receive updates throughout the course of handling the incident. Make sure emails are actionable as well. Send emails in rich text and HTML to include graphs, images, custom links, runbook links or links to a conference bridge for any alert. The solution even offers voice messages with incident details from the embedded phone system.
+Meanwhile, outbound integrations further highlight AlertOps’ commitment to delivering open APIs. Thanks to AlertOps, you can configure an outbound service method to send a specific JSON data packet, drop an outbound data packet into an outbound mapping configuration box and insert AlertOps data fields. Next, you can drop a response data packet into a response mapping configuration box and insert AlertOps data fields. When this is done, AlertOps will transfer the response data back to incident fields in the alert escalation and incident management software, helping you streamline your IT operations.
 
-Conclusion
-====
-Effective incident response requires, not only sending the right information to the right people, but also ensuring those stakeholders are engaged and truly informed. It is vital to have a plan in place for ensuring that each type of stakeholder receives only the information he or she needs. AlertOps ensures that your alerts reach the right person, through the right channel, every time.
+Open APIs are difference-makers for IT operations teams. By utilizing these APIs, IT operations teams can stay up to date about potential IT incidents, resulting in fast, efficient incident management and response.
 
-1 Red Canary 2021 Threat Detection Report
+Not yet convinced? Well, in Part 10 we discuss the difference in how AlertOps approaches reducing the risk of alert fatigue.
 
 source:
 ====
-https://alertops.com/red-canary-says-43-lack-readiness-to-notify-customers-of-a-security-breach/
+https://alertops.com/alertops-better-than-pagerduty-9/
 
 Read more:
 ====
